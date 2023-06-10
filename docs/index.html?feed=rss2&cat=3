@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>event &#8211; Open Solace Haiti</title>
+	<atom:link href="https://opensolacehaiti.alchemicalmusings.org/?feed=rss2&#038;cat=3" rel="self" type="application/rss+xml" />
+	<link>https://opensolacehaiti.alchemicalmusings.org</link>
+	<description>Rebuilding Haiti&#039;s Communications Network, One Haitian at a Time</description>
+	<lastBuildDate>Wed, 27 Jan 2010 12:28:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Stand w/ Haiti &#8211; NYC Grassroots Benefit</title>
+		<link>https://opensolacehaiti.alchemicalmusings.org/?p=15</link>
+					<comments>https://opensolacehaiti.alchemicalmusings.org/?p=15#comments</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 27 Jan 2010 12:28:23 +0000</pubDate>
+				<category><![CDATA[event]]></category>
+		<category><![CDATA[outreach]]></category>
+		<guid isPermaLink="false">http://opensolacehaiti.org/main/?p=1</guid>
+
+					<description><![CDATA[Last night Jonah attended a Haitian fundraiser organized by NYC For Change. Corinne amazingly pulled off a last minute postcard for me to bring to the event, which she &#8220;developed&#8221; at CVSes photo services center, since its way less expensive than full color printing on card stock. She built upon Maggie&#8217;s great work creating a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p></p><p><a href="http://opensolacehaiti.org/main/wp-content/uploads/2010/01/opensolace_postcard_01262010.jpg"><img decoding="async" loading="lazy" class="alignleft size-medium wp-image-12" title="opensolace_postcard_01262010" src="http://opensolacehaiti.org/main/wp-content/uploads/2010/01/opensolace_postcard_01262010-300x200.jpg" alt="" width="300" height="200" /></a>Last night Jonah attended a Haitian fundraiser organized by <a href="http://www.nycforchange.org/">NYC For Change</a>.</p>
+<p>Corinne amazingly pulled off a last minute postcard for me to bring to the event, which she &#8220;developed&#8221; at CVSes photo services center, since its <em>way</em> less expensive than full color printing on card stock. She built upon Maggie&#8217;s great work creating a logo for our project, and our <a href="http://wiki.crisiscommons.org/wiki/Graphic_Design_Corner_%28OpenSolaceWiki%29">design team</a> is really starting to get into high gear!</p>
+<p>It was really great to have something physical to hand out &#8211; made me feel like we had materialized from a vritual to a real project.</p>
+<p>There were a few Haitian speakers, and I am kicking myself for not figuring out a way to record on video the evening&#8217;s proceedings. The speeches were moving and powerful.</p>
+<p>The organizers brought together many local grassroots organizations, many of whom had formed during the Obama campaign, and are just itching to continue participating in democracy, civil society, and work for social justice and progressive change.</p>
+<p>I met some amazing folks including some doctors who are heading down soon, and am starting to actively wonder if doctors might be a good match for bringing along gear from our <a href="http://wiki.crisiscommons.org/wiki/Hardware_Kit_%28OpenSolaceWiki%29">hardware kit</a>.</p>
+<p>More later.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://opensolacehaiti.alchemicalmusings.org/?feed=rss2&#038;p=15</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

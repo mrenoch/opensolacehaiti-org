@@ -1,2 +1,2 @@
-# opensolacehaiti-org
-Static copy of opensolacehaiti
+# mindfuloccupation-org
+Static copy of opensolacehaiti.org
